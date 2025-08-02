@@ -1,0 +1,44 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Audio files (large)
+*.wav
+*.mp3
+*.m4a
+*.ogg
+
+# Model files (large)
+models/
+*.bin
+*.safetensors
+
+# Logs
+logs/
+*.log
+wandb/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data
+voice_samples/
+processed_samples/
+outputs/
+
+# Temporary
+*.tmp
+*.temp

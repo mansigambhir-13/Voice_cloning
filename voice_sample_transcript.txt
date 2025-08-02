@@ -1,0 +1,13 @@
+﻿# Sample transcript template
+# Replace this with your actual transcription
+
+# Guidelines:
+# - Write exactly what you said
+# - Include natural pauses and filler words (um, uh)
+# - Use proper punctuation
+# - Keep it accurate for best voice cloning results
+
+# Example:
+# Thank you so much sir. By then I'll work on the code and pipeline.
+
+[Your actual transcription here]
